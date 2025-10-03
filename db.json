@@ -87,17 +87,6 @@
       "createdAt": "2025-10-01T19:40:17.672Z"
     },
     {
-      "id": "e053",
-      "name": "Teresita",
-      "email": "tere@gmail.com",
-      "password": ".Tere221@",
-      "user_type": "Visitor",
-      "phone": "926335924",
-      "address": "Av. Metropolitana, Lima",
-      "subscription_id": null,
-      "createdAt": "2025-10-01T19:49:20.414Z"
-    },
-    {
       "id": "3OLqhYS",
       "name": "Angelo Curi Marcelo",
       "email": "curimarcelo8@gmail.com",
@@ -117,27 +106,6 @@
       "subscription_id": null,
       "createdAt": "2025-10-02T08:36:45.500Z",
       "id": "atSnopY"
-    },
-    {
-      "id": "89f2",
-      "name": "Mamita",
-      "email": "mamita@gmail.com",
-      "password": "7654321",
-      "user_type": "Owner",
-      "phone": "987654321",
-      "address": "Molina",
-      "subscription_id": "82bc"
-    },
-    {
-      "id": "e215",
-      "name": "teresita",
-      "email": "tere@gmail.com",
-      "password": "7654321",
-      "user_type": "Visitor",
-      "phone": "987654321",
-      "address": "Los Olivos",
-      "subscription_id": null,
-      "createdAt": "2025-10-03T15:01:47.157Z"
     }
   ],
   "hotels": [
@@ -160,40 +128,6 @@
       "image": "https://placehold.co/600x400?text=Hotel+Lima+Plaza"
     },
     {
-      "id": "3f85",
-      "name": "Hotels dddd",
-      "email": "codydevops@gmail.com",
-      "address": "Los Olivos",
-      "phone": "926335924",
-      "description": "Es un Hotel Boniot",
-      "image": "https://placehold.co/600x400?text=Hotel+Image",
-      "amenities": [
-        "wifi",
-        "cama ancha"
-      ],
-      "owner_id": "3b68",
-      "subscription_id": "1",
-      "createdAt": "2025-10-01T19:45:32.938Z",
-      "updatedAt": "2025-10-01T19:45:32.938Z"
-    },
-    {
-      "id": "83d9",
-      "name": "Maria",
-      "email": "u20211c221@gmail.com",
-      "address": "Av. Metropolitana, Lima",
-      "phone": "926335924",
-      "description": "ded",
-      "image": "https://placehold.co/600x400?text=Hotel+Image",
-      "amenities": [
-        "er",
-        "ee"
-      ],
-      "owner_id": "3b68",
-      "subscription_id": "1",
-      "createdAt": "2025-10-01T19:48:35.678Z",
-      "updatedAt": "2025-10-01T19:48:35.678Z"
-    },
-    {
       "id": "jUxgsFO",
       "name": "Juanito25",
       "address": "Chorrillos",
@@ -210,24 +144,6 @@
       ],
       "image": "https://media.istockphoto.com/id/119926339/es/foto/piscina-del-complejo-tur%C3%ADstico.jpg?s=612x612&w=0&k=20&c=xL-i7eF0tFmfvjZbWkOSvJTH5pzMVKWPt1iCTfZGwnw=",
       "updatedAt": "2025-10-02T08:10:16.737Z"
-    },
-    {
-      "id": "65fc",
-      "name": "Hotel X",
-      "email": "mamitis@gmail.com",
-      "address": "Molina",
-      "phone": "987654321",
-      "description": "This is a Hotel 5 estrellas ",
-      "image": "https://placehold.co/600x400?text=Hotel+Image",
-      "amenities": [
-        "Wifi",
-        "Agua Caliente",
-        "Tv"
-      ],
-      "owner_id": "89f2",
-      "subscription_id": "82bc",
-      "createdAt": "2025-10-03T14:54:38.051Z",
-      "updatedAt": "2025-10-03T14:54:38.051Z"
     }
   ],
   "rooms": [
@@ -294,20 +210,6 @@
       ],
       "description": "est una habitación para 2 personas ",
       "image": "https://placehold.co/600x400?text=Room+Image"
-    },
-    {
-      "id": "c37b",
-      "hotel_id": "65fc",
-      "room_number": "102",
-      "typeroom": "Twin",
-      "capacity": 10,
-      "price": 33,
-      "status": "Available",
-      "description": "Es un habitación feita",
-      "image": "https://placehold.co/600x400?text=Room+Image",
-      "amenities": [
-        "Wifi"
-      ]
     }
   ],
   "reservations": [
@@ -330,26 +232,6 @@
       "total_price": 129.9,
       "created_at": "2025-10-02T09:24:03.470Z",
       "id": "Zx342eg"
-    },
-    {
-      "room_id": "2d0zFsh",
-      "user_id": "atSnopY",
-      "start_date": "2025-10-02",
-      "end_date": "2025-10-03",
-      "status": "Pending",
-      "total_price": 4.54,
-      "created_at": "2025-10-02T09:26:47.107Z",
-      "id": "Xb0-Uy-"
-    },
-    {
-      "id": "6917",
-      "room_id": "f07d",
-      "user_id": "e215",
-      "start_date": "2025-10-03",
-      "end_date": "2025-10-04",
-      "status": "Pending",
-      "total_price": 120,
-      "created_at": "2025-10-03T15:03:35.830Z"
     }
   ]
 }
